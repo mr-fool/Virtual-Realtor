@@ -47,6 +47,14 @@ The purpose of our project, Virtual Realtor (REA), is to simplify the search for
 
 At the conclusion of the hackathon, our project, Virtual Realtor (REA), will be evaluated based on its innovation, practicality, and potential impact. We are determined to present a high-quality solution that showcases the capabilities of language models in solving real-world problems. We are excited to see how our project performs and look forward to receiving feedback from the esteemed panel of judges.
 
+## Judge Comment
+
+"Congratulations to the Rea team for their exceptional project that brings a fresh interface to the world of real estate search. Your work left us truly inspired!"
+
+## Won Unorthodox Prizes
+
+- [Unorthodox User Experience Award] - For creating a unique and delightful user experience in the real estate search domain.
+
 ## About Our Team
 
 Our team is composed of passionate individuals from diverse backgrounds who are driven by a common goal - to create meaningful and impactful solutions using AI and language models. Together, we aim to leave a positive mark on the world by leveraging cutting-edge technologies.
