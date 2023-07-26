@@ -59,4 +59,9 @@ At the conclusion of the hackathon, our project, Virtual Realtor (REA), will be 
 
 Our team is composed of passionate individuals from diverse backgrounds who are driven by a common goal - to create meaningful and impactful solutions using AI and language models. Together, we aim to leave a positive mark on the world by leveraging cutting-edge technologies.
 
+## Implementation
+![1](https://github.com/mr-fool/Virtual-Realtor/assets/6241984/ce5ab79d-8153-4ad4-aad0-bc174a0d10e3)
+![2](https://github.com/mr-fool/Virtual-Realtor/assets/6241984/4a2a4e59-d742-43d6-a2f9-b57f2a85dd3b)
+
+
 
