@@ -53,7 +53,7 @@ At the conclusion of the hackathon, our project, Virtual Realtor (REA), will be 
 
 ## Won Unorthodox Prizes
 
--For creating a unique and delightful user experience in the real estate search domain.
+For creating a unique and delightful user experience in the real estate search domain.
 
 ## About Our Team
 
